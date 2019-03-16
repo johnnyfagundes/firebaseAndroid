@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395414700274",
+    "firebase_url": "https://androidfirebase-fa258.firebaseio.com",
+    "project_id": "androidfirebase-fa258",
+    "storage_bucket": "androidfirebase-fa258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395414700274:android:e9a25c27764adbbc",
+        "android_client_info": {
+          "package_name": "br.udemy.mobile.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395414700274-2irog37e2qp2ss7unfkbt439jnnsa2td.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.udemy.mobile.androidfirebase",
+            "certificate_hash": "38f08a3004668227df830d303a997e60db6f4107"
+          }
+        },
+        {
+          "client_id": "395414700274-sccuj1p8q1qimh8aienl7bg85efa0ihk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXPpVITiSVWxAEz6hyOAINjc6jn0kyoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395414700274-sccuj1p8q1qimh8aienl7bg85efa0ihk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
